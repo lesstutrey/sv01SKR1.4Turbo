@@ -1,0 +1,2 @@
+# sv01SKR1.4Turbo
+Sovol SV01 with SKR 1.4 Turbo and TFT35 E3 v3 TMC2209 BLTOUCH
